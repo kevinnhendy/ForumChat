@@ -1,15 +1,27 @@
 <resources>
-    <string name="app_name">UAS2020_MOBILE-BL_00000019921_KevinHendy_Soal03</string>
+    <string name="app_name">UDisc</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Sign Out</string>
+    <string name="action_sort_alphabet">Sort By Alphabet</string>
+    <string name="action_sort_comments">Sort By Comments</string>
+
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_list">My Forum</string>
+    <string name="menu_signout">Sign Out</string>
 
-    <string name="home_second">Home Second</string>
+    <string name="profile_picture">Profile Picture</string>
+
+    <!--Error-->
+    <string name="login_error">Username or password is incorrect</string>
+    <string name="network_error">Please connect to a network</string>
+    <string name="register_error_weak_password">The password is invalid it must 6 characters at least</string>
+    <string name="register_error_email_in_used">The email address is already in use by another account.</string>
+    <string name="error_wrong_password">Please insert your current password</string>
+    <string name="error_something_wrong">Something is wrong. Try again.</string>
+    <string name="error_password">Wrong password</string>
 </resources>

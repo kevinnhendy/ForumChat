@@ -2,8 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/sort_comments_menu"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="@string/action_sort_comments"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sort_alphabet_menu"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_alphabet"
         app:showAsAction="never" />
 </menu>

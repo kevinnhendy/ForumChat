@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932671942263",
+    "firebase_url": "https://forumchat-d9ef2.firebaseio.com",
+    "project_id": "forumchat-d9ef2",
+    "storage_bucket": "forumchat-d9ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932671942263:android:aa5778a3492b2be89ea072",
+        "android_client_info": {
+          "package_name": "id.ac.umn.uas2020_mobile_bl_00000019921_kevinhendy_soal03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932671942263-mgv3nthc7ua4s5b6aipeoea7043elb2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.umn.uas2020_mobile_bl_00000019921_kevinhendy_soal03",
+            "certificate_hash": "4f3c7d4fd97b966f42c524a7a0a746c54942d6b9"
+          }
+        },
+        {
+          "client_id": "932671942263-s0a0ofhndealfv359gd2fs3f2515ndqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmhob_shi4tekM_dCHNs-17m1rGhWrLXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932671942263-s0a0ofhndealfv359gd2fs3f2515ndqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
